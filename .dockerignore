@@ -1,0 +1,40 @@
+# compiled output
+/dist
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# git Files
+.git
+.gitignore
+
+# Code formatting
+.prettier
+.eslintrc.js
+tsconfig.json
+
+# tests
+**/*.spec.ts
+test
+
+# Docs
+README.md
+assets
