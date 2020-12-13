@@ -29,7 +29,6 @@
 # Code formatting
 .prettier
 .eslintrc.js
-tsconfig.json
 
 # tests
 **/*.spec.ts
